@@ -1,11 +1,11 @@
-### Hello, Eu sou Gustavo
+### 👋 Hello, Eu sou Gustavo
 - 💻 Estou estudando ciência da computação
 - 📚 Estou buscando aprender mais sobre java e c++
 - 📪 E-mail para contato: gustavopn117@gmail.com
 <div align="center">
   <a href="https://github.com/Gustheou">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustheou&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustheou&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gustheou&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustheou&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gu-Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
