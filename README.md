@@ -7,10 +7,19 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gustheou&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustheou&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<div> 
+  <a href="https://media.discordapp.net/attachments/371494903349510144/906573097312845864/unknown.png" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <img align="top" alt="Gu-Windows" height="28" width="90" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <a href="https://www.twitch.tv/novatosoul" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gu-Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Gu-C++" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="right" alt="Gu-picture" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/371494903349510144/906570308872458300/output-onlinegiftools_2.gif?width=424&height=424">
+  
   
 </div>
   
