@@ -13,4 +13,9 @@ Hello, Eu sou Gustavo
   <img align="right" alt="Gu-picture" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/371494903349510144/906361688926871563/1622915751906-modified.png?width=424&height=424">
 </div>
 ##
+<div> 
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
