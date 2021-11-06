@@ -10,7 +10,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gu-Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Gu-C++" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="right" alt="Gu-picture" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/371494903349510144/906361688926871563/1622915751906-modified.png?width=424&height=424">
+  <img align="right" alt="Gu-picture" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/371494903349510144/906567331109539870/output-onlinegiftools.gif?width=424&height=424">
+  
 </div>
   
 <div> 
