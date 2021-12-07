@@ -1,7 +1,7 @@
 ### 👋 Hello, Eu sou Gustavo
 - 💻 Estou estudando ciência da computação
 - 📚 Estou buscando aprender mais sobre java e c++
-- 📪 E-mail para contato: gustavopn117@gmail.com
+- 📪 E-mail para contato: gustavopn058@protonmail.com
 <div align="center">
   <a href="https://github.com/Gustheou">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gustheou&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
