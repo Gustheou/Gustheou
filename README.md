@@ -11,6 +11,7 @@
 <div> 
   <a href="https://media.discordapp.net/attachments/371494903349510144/906573097312845864/unknown.png" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <img align="top" alt="Gu-Windows" height="28" width="90" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img align="top" alt="Gu-Linux" height="28" width="120" src="https://img.shields.io/badge/Manjaro_Linux-239120?style=for-the-badge&logo=manjaro&logoColor=white">
   <a href="https://www.twitch.tv/novatosoul" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 </div>
