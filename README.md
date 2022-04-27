@@ -1,7 +1,12 @@
-### 👋 Hello, Eu sou Gustavo
-- 💻 Estou estudando ciência da computação
-- 📚 Estou buscando aprender mais sobre java e c++
-- 📪 E-mail para contato: gustavopn058@protonmail.com
+<h1 align="center">Hi 👋, I'm Gustavo</h1>
+<h3 align="center">"If you feel like quitting... Think about why you started."</h3>
+
+- 💻 Estou estudando **ciência da computação**
+- 📚 Estou buscando aprender mais sobre **java** e **c++**
+- 📪 E-mail para contato: **gustavopn058@protonmail.com**
+- 🔭 Atualmente estou trabalhando no [AndroidStudio projects](https://github.com/Gustheou/AgendaAPK)
+- ⚡ Fun fact **I don't know why I put this here...**
+
 <div align="center">
   <a href="https://github.com/Gustheou">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gustheou&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -14,15 +19,10 @@
   <img align="top" alt="Gu-Linux" height="28" width="120" src="https://img.shields.io/badge/Manjaro_Linux-239120?style=for-the-badge&logo=manjaro&logoColor=white">
   <a href="https://www.twitch.tv/novatosoul" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
-</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gu-Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Gu-C++" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="right" alt="Gu-picture" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/371494903349510144/906570308872458300/output-onlinegiftools_2.gif?width=424&height=424">
-  
-  
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
   
 <div> 
 
