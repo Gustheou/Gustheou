@@ -4,7 +4,7 @@
 - 💻 Estou estudando **ciência da computação**
 - 📚 Estou buscando aprender mais sobre **java** e **c++**
 - 📪 E-mail para contato: **gustavopn058@protonmail.com**
-- 🔭 Atualmente estou trabalhando no [AndroidStudio projects](https://github.com/Gustheou/AgendaAPK)
+- 🔭 Atualmente estou trabalhando no [Database project](https://github.com/Gustheou/IA-Eventos)
 - ⚡ Fun fact **I don't know why I put this here...**
 
 <div align="center">
