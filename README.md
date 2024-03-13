@@ -1,34 +1,37 @@
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
+<h1 align="center">Hello there 👋, I'm Gustavo</h1>
 <h3 align="center">"If you feel like quitting... Think about why you started."</h3>
 
-- 💻 Estou estudando **ciência da computação**
-- 📚 Estou buscando aprender mais sobre **java** e **c++**
-- 📪 E-mail para contato: **gustavopn058@protonmail.com**
-- 🔭 Atualmente estou trabalhando no [Networks for computer II](https://github.com/Gustheou/Redes2)
-- ⚡ Fun fact **I don't know why I put this here...**
+Eu sou estudante de ciência da computação na **UESB** (Universidade Estadual do Sudoeste da Bahia). 
+Atualmente faço parte do grupo de pesquisa **OPSS** (Otimização, programação e simulação de sistemas) que se encontra na própria instituição no qual estou aprendendo e evoluindo minhas habilidades nas áreas de desenvolvimento mobile, desenvolvimento desktop e documentação de projetos/softwares.
 
-<div align="center">
-  <a href="https://github.com/Gustheou">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gustheou&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustheou&layout=compact&langs_count=7&theme=dark"/>
+
+❖ Fascinado pela programação, pelo back-end, e pelo front-end, logo, almejo conseguir me tornar um desenvolvedor full-stack.
+
+❖ Estou buscando aprender mais sobre **Java**, **Flutter** e **Swift**.
+
+❖ Gosto de desenvolver, aprender novas linguagens, novas ferramentas e resolver problemas!!
+
+❖ Apaixonado por pixel art.
+
+❖ E-mail para contato: **gustavopn058@protonmail.com**
+
+<h3 align="left"> Languages & tools:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gu-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Gu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Gu-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Gu-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Gu-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Gu-Mint" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/512px-Linux_Mint_logo_without_wordmark.svg.png?20211107101027">
+  <img align="center" alt="Gu-VSC" height="30" width="30" src="https://code.visualstudio.com/assets/images/code-stable.png">
+  <img align="center" alt="Gu-Pixel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/6/69/20231108190719%21Logo_Aseprite.svg/112px-Logo_Aseprite.svg.png">
 </div>
 
+
+
 <div> 
-  <a href="https://media.discordapp.net/attachments/371494903349510144/906573097312845864/unknown.png" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <img align="top" alt="Gu-Windows" height="28" width="90" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="top" alt="Gu-Linux" height="28" width="120" src="https://img.shields.io/badge/Manjaro_Linux-239120?style=for-the-badge&logo=manjaro&logoColor=white">
-  <a href="https://www.twitch.tv/novatosoul" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<img align="right" alt="Gu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/371494903349510144/981013833034383370/output-onlinegiftool.gif?width=423&height=423">
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-
+<img align="right" alt="Gu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/371494903349510144/1217546519855759602/Profile.jpg?ex=66046b8f&is=65f1f68f&hm=a13a81d89b4497f6c9dcbdb2086d0874d3a54e7b5df0354360e792546a834b89&">  
+<div> 
   
-<div> 
-
-  ![Snake animation](https://github.com/Gustheou/Gustheou/blob/output/github-contribution-grid-snake.svg)
- 
-
 </div>
 
