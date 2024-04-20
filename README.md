@@ -30,7 +30,7 @@ Atualmente faço parte do grupo de pesquisa **OPSS** (Otimização, programaçã
 
 
 <div> 
-<img align="right" alt="Gu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/371494903349510144/1217546519855759602/Profile.jpg?ex=66046b8f&is=65f1f68f&hm=a13a81d89b4497f6c9dcbdb2086d0874d3a54e7b5df0354360e792546a834b89&">  
+<img align="right" alt="Gu-picture" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/371494903349510144/1217546519855759602/Profile.jpg?ex=66046b8f&is=65f1f68f&hm=a13a81d89b4497f6c9dcbdb2086d0874d3a54e7b5df0354360e792546a834b89&">  
 <div> 
   
 </div>
