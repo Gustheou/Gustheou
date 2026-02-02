@@ -10,6 +10,10 @@ I'm a developer based in Brazil. I like to build interfaces, to solve problems, 
 
 ---
 
+My main tech stack is **Java**. My favorite tools are neovim, android studio and asesprite
+
+---
+
 **Some stuff I built / help to build:**
 - [AcheiUesb](https://play.google.com/store/apps/details?id=org.opss.acheiuesb&hl=en-US) - A digital map of the university for students and visitors to discover, learn about, and locate (how to get to their chosen destination) the university's infrastructure;
 - [Haskell class notes](https://www2.uesb.br/editora/?p=3372) - Exercise material and solutions to support students who are introducing the Haskell programming language;
