@@ -6,7 +6,7 @@ I'm a developer based in Brazil. I like to build interfaces, to solve problems, 
 **These days I'm focused on:**
 - Cybersecurity, pentesting;
 - Shellscript;
-- Mobile development, with java;
+- Mobile development;
 
 ---
 
